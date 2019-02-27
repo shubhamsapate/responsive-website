@@ -1,5 +1,5 @@
 body{
-    font-size: 15px;
+    font-size: 1rem;
     font-family: Arial, Helvetica, sans-serif;
     padding: 0%;
     margin: 0%;
@@ -14,8 +14,8 @@ body{
 }
 header{
     background:#1e2431;
-    padding-top: 30px;
-    min-height: 70px;
+    padding-top: 2rem;
+    min-height: 4.2rem;
     border-bottom: #e8491d 3px solid;
 
 }
@@ -23,7 +23,7 @@ header a{
     color:white;
     text-decoration: none;
     text-transform: uppercase;
-    font-size: 16px;
+    font-size: 1rem;
 
 }
 header ul{
@@ -34,7 +34,7 @@ header li{
 
     display: inline;
     padding: 0 20 0 20; 
-    margin: 10px;
+    margin: 0.6rem;
 
 }
 header #branding{
@@ -42,13 +42,13 @@ header #branding{
 
 }
 header #branding h1{
-    margin: 0;
+    margin: 0px;
     color:white;
 }
 
 header nav{
     float :right;
-    margin-top:10px;
+    margin-top:0.62rem;
 }
 header a:hover{
     color: brown;
@@ -59,42 +59,42 @@ header a:hover{
     background: url('../images/bg.jpg') no-repeat 0 -400px;
     text-align: center;
     color: rgb(247, 240, 228);
-    min-height: 400px;
+    min-height: 25rem;
 }
 
 #showcase .container h1{
 
-    margin-top:200px;
+    margin-top:12.5rem;
     text-align: center;
-    font-size: 40px;
+    font-size: 2.5rem;
 }
   
 #showcase p{
 
-    font-size: 20px;
+    font-size: 1.3rem;
 }
 #boxes{
 
-    margin-top: 20px;
+    margin-top: 1.3rem;
 
 }
 .dark{
 
     background: black;
     color: white;
-    padding: 15px;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    padding: 1rem;
+    margin-top: 0.62rem;
+    margin-bottom: 0.62rem;
 
 
 }
 .button_1{
 
-height: 35px;
+height: 1.2rem;
 background: orangered;
 border:0;
-padding-left: 20px;
-padding-right: 20px;
+padding-left: 1.2rem;
+padding-right: 1.2rem;
 color: white;
 
 
@@ -103,27 +103,27 @@ color: white;
 
     float:left;
     width:30%;
-    padding:10px;
+    padding:0.62rem;
     text-align:center;
 }
 #boxes .box img{
-    width: 90px;
+    width: 5.62rem;
 
 }
 
 aside#sidebar{
     float: right;
-    margin-top: 10px;
+    margin-top: 0.62rem;
     width: 30%;
 
 }
 .serve{
 
     background: #e6e6e6;
-    margin-top: 5px;
-    margin-bottom: 5px;
+    margin-top: 0.31rem;
+    margin-bottom: 0.31rem;
     padding: 20px;
-    border: #cccccc solid 1px;
+    border: #cccccc solid 0.16rem;
 }
 article#main-col{
 
